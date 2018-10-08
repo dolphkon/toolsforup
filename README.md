@@ -3,7 +3,7 @@
 
 
 ### PDF 转换「lightpdf」
- * https://lightpdf.com/zh/
+ * https://lightpdf.com/
 ### 录屏软件
 * http://ohsoft.net/eng/ocam/download.php?cate=1002
 ### 网盘搜索
