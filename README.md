@@ -16,3 +16,13 @@
 * https://www.bandisoft.com/bandizip/
 ### 下载器：IDM
 * https://www.appcgn.com/internet-download-manager.html
+
+ 文  ： dolphkon
+
+封面图：来源于网络
+
+PS：本公众号文章属于原创，更多精彩等你来！
+
+​                         
+
+![img](https://mmbiz.qpic.cn/mmbiz_jpg/IC9v3eF7SujEn3VKib6keW3VzQiajpYPT3S1aEx1M36PmALtnw4DZKNhoRnyyQLb1AuAzmrXRXFibeqUV9UtExeQQ/640)
