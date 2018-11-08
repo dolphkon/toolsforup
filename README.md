@@ -14,3 +14,5 @@
 * https://geekuninstaller.com/download
 ### 绿色解压缩软件「Bandzip」
 * https://www.bandisoft.com/bandizip/
+### 下载器：IDM
+https://www.appcgn.com/internet-download-manager.html
