@@ -22,6 +22,8 @@
 * https://betternet.en.softonic.com/
 ### 科学上网:「Windscribe」
 * https://www.chromedownloads.net/uploads/soft/170831/windscribe.zip
+### Chrome浏览器最新离线版下载
+* https://www.chromedownloads.net/
 
  文  ： dolphkon 
 
