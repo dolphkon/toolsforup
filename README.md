@@ -20,6 +20,8 @@
 * http://www.simple000.com/
 ### 科学上网「免费 VPN」:betternet:
 * https://betternet.en.softonic.com/
+### 科学上网:「Windscribe」
+* https://www.chromedownloads.net/uploads/soft/170831/windscribe.zip
 
  文  ： dolphkon 
 
