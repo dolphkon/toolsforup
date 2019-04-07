@@ -18,6 +18,8 @@
 * https://www.appcgn.com/internet-download-manager.html
 ### 免费技术电子书：SIMPLE求知网
 * http://www.simple000.com/
+### 科学上网「免费 VPN」:betternet:
+* https://betternet.en.softonic.com/
 
  文  ： dolphkon
 
