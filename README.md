@@ -24,6 +24,8 @@
 * https://www.chromedownloads.net/uploads/soft/170831/windscribe.zip
 ### Chrome浏览器最新离线版下载
 * https://www.chromedownloads.net/
+### windows10/7 激活：
+* http://www.yishimei.cn/network/319.html
 
  文  ： dolphkon 
 
