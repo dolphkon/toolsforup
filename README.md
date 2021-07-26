@@ -26,7 +26,7 @@
 * https://www.chromedownloads.net/
 ### windows10/7 激活：
 * http://www.yishimei.cn/network/319.html
-### 图标制作
+### 图表制作
 * https://dycharts.com/
 
  文  ： dolphkon 
